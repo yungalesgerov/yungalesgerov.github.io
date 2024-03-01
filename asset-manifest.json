@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.414f09d3.css",
+    "main.js": "/static/js/main.2d42390c.js",
+    "static/media/repair.png": "/static/media/repair.b69fab41a4b366ac823c.png",
+    "static/media/index.svg": "/static/media/index.89d3119228d600788910.89d3119228d600788910.svg",
+    "static/media/bookshop.png": "/static/media/bookshop.303cfbb0bde762a9011a.png",
+    "static/media/skan.png": "/static/media/skan.b6920912cafd0a71d6fb.png",
+    "static/media/avatar.jpeg": "/static/media/avatar.4937c4e0d63861657b78.jpeg",
+    "static/media/dev.png": "/static/media/dev.e293f9855bfcf5cc8387.png",
+    "static/media/841606.svg": "/static/media/841606.5601157f8896551d37e4d96c41f2cf3c.svg",
+    "static/media/sass.svg": "/static/media/sass.f258d3a44e6b2afd0bec4d84f179a524.svg",
+    "static/media/react.svg": "/static/media/react.c2fc64b1636d5f26b8bf7f8d9cbc24f8.svg",
+    "static/media/node.svg": "/static/media/node.9e024b03e4706d324f35c2d860aeff41.svg",
+    "static/media/js.svg": "/static/media/js.06645115e02e70f2baa82e0e66968d20.svg",
+    "index.html": "/index.html",
+    "static/media/html5.svg": "/static/media/html5.111abfb8618746e95c7a5cceeb5a061a.svg",
+    "static/media/css.svg": "/static/media/css.168968e9229dd9f9c008c4e82dd58217.svg",
+    "main.414f09d3.css.map": "/static/css/main.414f09d3.css.map",
+    "main.2d42390c.js.map": "/static/js/main.2d42390c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.414f09d3.css",
+    "static/js/main.2d42390c.js"
+  ]
+}
